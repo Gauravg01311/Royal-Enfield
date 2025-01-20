@@ -572,7 +572,7 @@ footer #foot ul h3{
 
     /* Social Section */
     #social {
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
         gap: 1rem;
         padding: 1rem;
